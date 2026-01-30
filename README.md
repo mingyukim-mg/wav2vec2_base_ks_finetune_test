@@ -15,7 +15,7 @@
 
 ## 1. 실행 환경
 
-- Python 3.10.xx 이상 (Python 3.10.12 기준으로 테스트됨)
+- Python 3.10.xx (Python 3.10.12 기준으로 테스트됨)
 - OS: Linux / macOS  
   (Windows에서도 실행 가능)
 
