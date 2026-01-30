@@ -24,8 +24,11 @@
 ## 2. 설치 방법
 
 가상환경 생성 (권장):
+
 bash
+
 python -m venv venv
+
 source venv/bin/activate
 
 ## 3. 필요한 패키지 설치
@@ -34,14 +37,23 @@ pip install -r requirements.txt
 
 ## 4. 디렉토리 구조
 audio-event-infer/
+
 ├── data/
+
 │   ├── horn.wav
+
 │   └── call.wav
+
 ├── models/
+
 │   ├── finetuned/     # 파인튜닝 모델
+
 │   └── pretrained/    # 기존 pretrained 모델
+
 ├── predict.py
+
 ├── requirements.txt
+
 └── README.md
 
 ## 5. 모델 다운로드
