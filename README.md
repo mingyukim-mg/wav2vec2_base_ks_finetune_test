@@ -7,6 +7,7 @@
 
 - horn(1)
 - call(2)
+
 아직 튜닝 안 한 라벨
 - background(0)
 - alarm(3)
