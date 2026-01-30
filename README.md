@@ -1,6 +1,5 @@
 # Audio Event Inference (wav2vec2 파인튜닝 모델)
 
-이 깃허브는 
 `superb/wav2vec2-base-superb-ks` 모델을 파인튜닝한  
 오디오 이벤트 분류 모델의 추론(inference) 예제입니다.
 
