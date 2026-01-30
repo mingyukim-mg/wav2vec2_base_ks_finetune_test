@@ -46,8 +46,11 @@ audio-event-infer/
 
 ## 5. 모델 다운로드
 허깅페이스에서 원본 모델과 파인튜닝 모델을 다운로드 합니다.
+
 git lfs install
+
 git clone https://huggingface.co/superb/wav2vec2-base-superb-ks models/pretrained
+
 git clone https://huggingface.co/dbif/wav2vec2-audio-event-tunetest models/finetuned
 
 이후 models/finetuned 폴더 안에 config.json, model.safetensors, preprocessor_config.json파일들이 있어야 합니다.
